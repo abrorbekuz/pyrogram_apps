@@ -1,3 +1,5 @@
+#Telegram app<br><br>
+<img src="telegram.svg"/>
 
 thats telegram app to chat send something<br>
 i must say, still ongoing but someday someone finishes it<br>
