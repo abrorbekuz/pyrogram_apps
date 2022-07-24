@@ -11,4 +11,5 @@ example
 - .type hello world
 
 if u want that click the button below and upload that thing to heroku and enjoy
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abrorbekuz/typer)
