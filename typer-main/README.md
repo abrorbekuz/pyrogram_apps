@@ -1,7 +1,7 @@
 ## Deploy to Heroku
 
-typer bot for telegram users
-types natural like human but much more faster, lol
+typer bot for telegram users<br>
+types natural like human but much more faster (like hell), lol<br>
 type .type and your wish in any chat u want
 
 usage
