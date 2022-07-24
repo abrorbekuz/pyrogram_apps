@@ -1,0 +1,28 @@
+{
+    "name":"somebody",
+    "description":"typer bot",
+    "repository":"https://github.com/abrorbekuz/typer",
+    "keywords":[
+        "python",
+        "pyrogram"
+    ],
+    "env":{
+        "API_ID":{
+            "description":"api_id part of your Telegram API Key from my.telegram.org/apps",
+            "required":true
+        },
+        "API_HASH":{
+            "description":"api_hash part of your Telegram API Key from my.telegram.org/apps",
+            "required":true
+        },
+        "SESSION_NAME":{
+            "description":"Session string, read the README to learn how to export it with Pyrogram",
+            "required":true
+        }
+    },
+    "buildpacks":[
+        {
+            "url":"heroku/python"
+        }
+    ]
+}
